@@ -1,0 +1,20 @@
+{
+  "name": "com.leancloud.realtime",
+  "version": "0.0.10",
+  "displayName": "LeanCloud Realtime",
+  "description": "This is leancloud realtime package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.leancloud.storage": "https://github.com/onerain88/UPMTest.git#0.0.10"
+  },
+  "keywords": [
+    "LeanCloud",
+    "Storage"
+  ],
+  "author": {
+    "name": "LeanCloud",
+    "email": "zyu@leancloud.rocks",
+    "url": "https://www.leancloud.cn/"
+  }
+}
